@@ -1,0 +1,22 @@
+{
+  "name": "options-from-options",
+  "version": "1.0.1",
+  "description": "get a new options object from a raw options",
+  "main": "options-from-options.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "options"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/options-from-options.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/options-from-options/issues"
+  },
+  "homepage": "https://github.com/adf0001/options-from-options#readme"
+}
